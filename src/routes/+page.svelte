@@ -15,7 +15,7 @@
 	import saturnTexture from '$lib/image/saturn.jpg';
 	import saturnRingTexture from '$lib/image/saturnrings.png';
 	import uranusTexture from '$lib/image/uranus.jpg';
-	import uranusRingTexture from '$lib/image/uranusrings.jpg';
+	import uranusRingTexture from '$lib/image/uranusring.jpg';
 	import neptuneTexture from '$lib/image/neptune.jpg';
 	import plutoTexture from '$lib/image/pluto.jpg';
 	import { onMount } from 'svelte';
